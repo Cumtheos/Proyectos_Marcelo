@@ -2,7 +2,7 @@ Esta linea esta editada desde el master
 Esta linea es la segunda modificacion que hice en el master
 
 
-esta linea es propia de mi autoria
+cambie la linea nuevamente la anterior no me gusto
 
 Esta linea es la primera linea que edito en new_rama para posteriormente hacer un merge
 Esta es la segunda modificacion que hice de este texto pero en new_rama para posteriomente hacer un merge
